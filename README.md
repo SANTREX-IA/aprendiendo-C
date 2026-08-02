@@ -4,7 +4,7 @@ Repositorio de aprendizaje personal donde documento mi progreso
 aprendiendo el lenguaje de programación C.
 
 ## Sobre mí
-- Estudiante de Ingeniería en IA
+- Estudiante de Licenciatura en IA
 - Apasionado por la Robótica Cognitiva
 - Construyendo mis bases desde cero
 
@@ -18,5 +18,4 @@ aprendiendo el lenguaje de programación C.
 - 07bloque8.c   → Juego: Adivina el número
 
 ## Nota
-Soy principiante. Este repositorio muestra mi aprendizaje real,
-con errores y todo.
+Soy principiante. Este repositorio muestra mi aprendizaje real.
